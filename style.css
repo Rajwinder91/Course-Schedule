@@ -1,0 +1,25 @@
+.alert-danger 
+{
+    width: 74%;
+    margin: 0 auto;
+}
+.back-button {
+    margin-top: 10px;
+	float: left;
+	margin-left: 5px;
+}
+
+table 
+{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th 
+{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
